@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19B88" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <entity name="DeletedPost" representedClassName="DeletedPost" syncable="YES" codeGenerationType="class">
-        <attribute name="id" optional="YES" attributeType="String"/>
-    </entity>
-    <entity name="Post" representedClassName="Post" syncable="YES" codeGenerationType="class">
-        <attribute name="author" optional="YES" attributeType="String"/>
-        <attribute name="createdAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
-        <attribute name="id" optional="YES" attributeType="String"/>
-        <attribute name="storyTitle" optional="YES" attributeType="String"/>
-        <attribute name="storyUrl" optional="YES" attributeType="String"/>
-    </entity>
-    <elements>
-        <element name="Post" positionX="-63" positionY="-18" width="128" height="118"/>
-        <element name="DeletedPost" positionX="-54" positionY="27" width="128" height="58"/>
-    </elements>
+    <elements/>
 </model>
